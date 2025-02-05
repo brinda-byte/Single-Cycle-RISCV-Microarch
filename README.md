@@ -5,6 +5,9 @@ This is an overview of the implementation.
 ![Screenshot 2025-02-06 004528](https://github.com/user-attachments/assets/ad978966-55f0-49b8-8722-3412518589c6)
 
 This is a simple datapath for the single cycle RISC-V microarchitechture that has 5 stages namely :
+   ![Screenshot 2025-02-06 005118](https://github.com/user-attachments/assets/0496d3e3-b681-4e5b-b288-a84225baadf7)
+
+   
 1. Instruction Fetch stage
    ![Screenshot 2025-02-06 004934](https://github.com/user-attachments/assets/b9258214-7906-42e3-b8b1-ddebee354942)
    
@@ -15,7 +18,7 @@ This is a simple datapath for the single cycle RISC-V microarchitechture that ha
    ![Screenshot 2025-02-06 005057](https://github.com/user-attachments/assets/1fab936a-a07d-42c6-897b-8a9346d38f2f)
    
 7. Memory Access Stage
-   ![Screenshot 2025-02-06 005118](https://github.com/user-attachments/assets/0496d3e3-b681-4e5b-b288-a84225baadf7)
+
    
 9. Write Back Stage
    ![Screenshot 2025-02-06 005206](https://github.com/user-attachments/assets/9b72cf93-b0a2-4f44-af5d-b7f9be3a7af8)
