@@ -27,7 +27,7 @@ This is a simple datapath for the single cycle RISC-V microarchitechture that ha
    
 9. Write Back Stage
 
-  ![Screenshot 2025-02-06 005141](https://github.com/user-attachments/assets/854862d3-314c-42dd-afbf-c4c4c3b469cc)
+   ![Screenshot 2025-02-06 005141](https://github.com/user-attachments/assets/854862d3-314c-42dd-afbf-c4c4c3b469cc)
 
 
 
